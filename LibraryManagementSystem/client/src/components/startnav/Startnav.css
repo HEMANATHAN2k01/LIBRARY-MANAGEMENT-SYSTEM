@@ -1,0 +1,13 @@
+.start-nav{
+    display: flex;
+    justify-content: space-between;
+    background: linear-gradient(309deg, #b92b27 32%, #1565C0 75%);
+    padding: 1rem 5rem;
+    align-items: center;
+    box-shadow: 0px 5px 9px -3px rgba(0,0,0,0.75);
+    
+}
+
+.start-nav h2{
+    color: white;
+}

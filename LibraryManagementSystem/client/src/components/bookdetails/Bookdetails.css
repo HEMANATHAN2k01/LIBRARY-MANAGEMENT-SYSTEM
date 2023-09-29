@@ -1,0 +1,39 @@
+
+.book-details{
+    display: flex;
+    background: #1E1E1E;
+    padding: 1rem;
+    align-items: flex-start;
+    justify-content: space-between;
+    color: white;
+    /* border-radius: 0.3rem; */
+
+    
+    box-shadow: 0px 0px 16px 0px rgba(0,0,0,0.75);
+    height: 150px;
+    max-height: 200px;
+
+}
+
+.book-details:hover{
+    border-bottom: 2px #C38FFF solid;
+}
+
+
+.return-btn{
+    padding: 0.5rem 1rem;
+    background: #c18ffa;
+    /* border-radius: 1rem; */
+    color: #1E1E1E;
+    border: none;
+    cursor: pointer;
+    background: linear-gradient(0deg, #C38FFF 0%,  #C38FFF 100%);
+    transition: all 0.3s ease;
+   
+}
+
+/* .return-btn .book-details:hover {
+    background-color: #1E1E1E;
+
+} */
+
